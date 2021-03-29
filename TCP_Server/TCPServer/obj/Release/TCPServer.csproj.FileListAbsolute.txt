@@ -1,0 +1,14 @@
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.csprojAssemblyReference.cache
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.App.resources
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.Form1.resources
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.Properties.Resources.resources
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.csproj.GenerateResource.cache
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.csproj.CoreCompileInputs.cache
+P:\PROJET ER4\TCP\TCPServer\bin\Release\TCPServer.exe.config
+P:\PROJET ER4\TCP\TCPServer\bin\Release\TCPServer.exe
+P:\PROJET ER4\TCP\TCPServer\bin\Release\TCPServer.pdb
+P:\PROJET ER4\TCP\TCPServer\bin\Release\SimpleTcp.dll
+P:\PROJET ER4\TCP\TCPServer\bin\Release\SimpleTcp.xml
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.csproj.CopyComplete
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.exe
+P:\PROJET ER4\TCP\TCPServer\obj\Release\TCPServer.pdb

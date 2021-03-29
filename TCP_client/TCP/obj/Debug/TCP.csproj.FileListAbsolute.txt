@@ -1,0 +1,12 @@
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\SimpleTcp.dll
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\SimpleTcp.xml
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.csprojAssemblyReference.cache
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.csproj.CopyComplete
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.pdb

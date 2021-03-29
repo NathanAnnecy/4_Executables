@@ -1,0 +1,13 @@
+P:\PROJET ER4\TCP\TCP\bin\Release\TCP.exe.config
+P:\PROJET ER4\TCP\TCP\bin\Release\TCP.exe
+P:\PROJET ER4\TCP\TCP\bin\Release\TCP.pdb
+P:\PROJET ER4\TCP\TCP\bin\Release\SimpleTcp.dll
+P:\PROJET ER4\TCP\TCP\bin\Release\SimpleTcp.xml
+P:\PROJET ER4\TCP\TCP\obj\Release\TCPClient.csprojAssemblyReference.cache
+P:\PROJET ER4\TCP\TCP\obj\Release\TCPClient.Form1.resources
+P:\PROJET ER4\TCP\TCP\obj\Release\TCP.Properties.Resources.resources
+P:\PROJET ER4\TCP\TCP\obj\Release\TCPClient.csproj.GenerateResource.cache
+P:\PROJET ER4\TCP\TCP\obj\Release\TCPClient.csproj.CoreCompileInputs.cache
+P:\PROJET ER4\TCP\TCP\obj\Release\TCPClient.csproj.CopyComplete
+P:\PROJET ER4\TCP\TCP\obj\Release\TCP.exe
+P:\PROJET ER4\TCP\TCP\obj\Release\TCP.pdb

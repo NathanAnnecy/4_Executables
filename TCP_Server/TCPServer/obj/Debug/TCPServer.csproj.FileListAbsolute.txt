@@ -1,0 +1,186 @@
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\bin\Debug\SimpleTcp.dll
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\bin\Debug\SimpleTcp.xml
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.App.resources
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.App.resources
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.Form1.resources
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.exe
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.pdb
+P:\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+P:\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.exe
+P:\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.pdb
+P:\PROJET ER4\TCP\TCPServer\bin\Debug\SimpleTcp.dll
+P:\PROJET ER4\TCP\TCPServer\bin\Debug\SimpleTcp.xml
+P:\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.App.resources
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.Form1.resources
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.exe
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.pdb
+G:\Proj\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+G:\Proj\TCP\TCPServer\bin\Debug\TCPServer.exe
+G:\Proj\TCP\TCPServer\bin\Debug\TCPServer.pdb
+G:\Proj\TCP\TCPServer\bin\Debug\SimpleTcp.dll
+G:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.dll
+G:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.Web.dll
+G:\Proj\TCP\TCPServer\bin\Debug\SimpleTcp.xml
+G:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.xml
+G:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.Web.xml
+G:\Proj\TCP\TCPServer\bin\Debug\de\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\es\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\fr\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\hu\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\it\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\ja\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\pt\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\ru\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\sk\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\sv\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\tr\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.App.resources
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.Form1.resources
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.exe
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.pdb
+E:\Proj\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+E:\Proj\TCP\TCPServer\bin\Debug\TCPServer.exe
+E:\Proj\TCP\TCPServer\bin\Debug\TCPServer.pdb
+E:\Proj\TCP\TCPServer\bin\Debug\SimpleTcp.dll
+E:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.dll
+E:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.Web.dll
+E:\Proj\TCP\TCPServer\bin\Debug\SimpleTcp.xml
+E:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.xml
+E:\Proj\TCP\TCPServer\bin\Debug\ZedGraph.Web.xml
+E:\Proj\TCP\TCPServer\bin\Debug\de\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\es\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\fr\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\hu\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\it\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\ja\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\pt\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\ru\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\sk\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\sv\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\tr\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+E:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+G:\Proj\TCP\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+P:\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+P:\TCP\TCPServer\bin\Debug\TCPServer.exe
+P:\TCP\TCPServer\bin\Debug\TCPServer.pdb
+P:\TCP\TCPServer\bin\Debug\SimpleTcp.dll
+P:\TCP\TCPServer\bin\Debug\ZedGraph.dll
+P:\TCP\TCPServer\bin\Debug\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\ZedGraph.Web.dll
+P:\TCP\TCPServer\bin\Debug\SimpleTcp.xml
+P:\TCP\TCPServer\bin\Debug\ZedGraph.xml
+P:\TCP\TCPServer\bin\Debug\ZedGraph.Web.xml
+P:\TCP\TCPServer\bin\Debug\de\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\es\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\fr\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\hu\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\it\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\ja\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\pt\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\ru\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\sk\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\sv\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\tr\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\zh-cn\ZedGraph.resources.dll
+P:\TCP\TCPServer\bin\Debug\zh-tw\ZedGraph.resources.dll
+P:\TCP\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+P:\TCP\TCPServer\obj\Debug\TCPServer.App.resources
+P:\TCP\TCPServer\obj\Debug\TCPServer.Form1.resources
+P:\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+P:\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+P:\TCP\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+P:\TCP\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+P:\TCP\TCPServer\obj\Debug\TCPServer.exe
+P:\TCP\TCPServer\obj\Debug\TCPServer.pdb
+G:\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+G:\TCP\TCPServer\bin\Debug\TCPServer.exe
+G:\TCP\TCPServer\bin\Debug\TCPServer.pdb
+G:\TCP\TCPServer\bin\Debug\SimpleTcp.dll
+G:\TCP\TCPServer\bin\Debug\ZedGraph.dll
+G:\TCP\TCPServer\bin\Debug\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\ZedGraph.Web.dll
+G:\TCP\TCPServer\bin\Debug\SimpleTcp.xml
+G:\TCP\TCPServer\bin\Debug\ZedGraph.xml
+G:\TCP\TCPServer\bin\Debug\ZedGraph.Web.xml
+G:\TCP\TCPServer\bin\Debug\de\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\es\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\fr\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\hu\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\it\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\ja\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\pt\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\ru\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\sk\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\sv\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\tr\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\TCP\TCPServer\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\TCP\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+G:\TCP\TCPServer\obj\Debug\TCPServer.App.resources
+G:\TCP\TCPServer\obj\Debug\TCPServer.Form1.resources
+G:\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+G:\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+G:\TCP\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+G:\TCP\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+G:\TCP\TCPServer\obj\Debug\TCPServer.exe
+G:\TCP\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.App.resources
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\SimpleTcp.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\ZedGraph.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\ZedGraph.Web.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\SimpleTcp.xml
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\ZedGraph.xml
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\ZedGraph.Web.xml
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache

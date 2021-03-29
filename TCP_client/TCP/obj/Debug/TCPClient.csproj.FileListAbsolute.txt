@@ -1,0 +1,87 @@
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\SimpleTcp.dll
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\bin\Debug\SimpleTcp.xml
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csproj.CopyComplete
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCP.pdb
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.Form1.resources
+C:\Users\nathy\OneDrive\Documents\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csprojAssemblyReference.cache
+P:\PROJET ER4\TCP\TCP\bin\Debug\TCP.exe.config
+P:\PROJET ER4\TCP\TCP\bin\Debug\TCP.exe
+P:\PROJET ER4\TCP\TCP\bin\Debug\TCP.pdb
+P:\PROJET ER4\TCP\TCP\bin\Debug\SimpleTcp.dll
+P:\PROJET ER4\TCP\TCP\bin\Debug\SimpleTcp.xml
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csprojAssemblyReference.cache
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.Form1.resources
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csproj.GenerateResource.cache
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCPClient.csproj.CopyComplete
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCP.exe
+P:\PROJET ER4\TCP\TCP\obj\Debug\TCP.pdb
+E:\Proj\TCP\TCP\bin\Debug\TCP.exe.config
+E:\Proj\TCP\TCP\bin\Debug\TCP.exe
+E:\Proj\TCP\TCP\bin\Debug\TCP.pdb
+E:\Proj\TCP\TCP\bin\Debug\SimpleTcp.dll
+E:\Proj\TCP\TCP\bin\Debug\SimpleTcp.xml
+E:\Proj\TCP\TCP\obj\Debug\TCPClient.Form1.resources
+E:\Proj\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+E:\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.GenerateResource.cache
+E:\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+E:\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.CopyComplete
+E:\Proj\TCP\TCP\obj\Debug\TCP.exe
+E:\Proj\TCP\TCP\obj\Debug\TCP.pdb
+G:\Proj\TCP\TCP\bin\Debug\TCP.exe.config
+G:\Proj\TCP\TCP\bin\Debug\TCP.exe
+G:\Proj\TCP\TCP\bin\Debug\TCP.pdb
+G:\Proj\TCP\TCP\bin\Debug\SimpleTcp.dll
+G:\Proj\TCP\TCP\bin\Debug\SimpleTcp.xml
+G:\Proj\TCP\TCP\obj\Debug\TCPClient.Form1.resources
+G:\Proj\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+G:\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.GenerateResource.cache
+G:\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+G:\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.CopyComplete
+G:\Proj\TCP\TCP\obj\Debug\TCP.exe
+G:\Proj\TCP\TCP\obj\Debug\TCP.pdb
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\bin\Debug\SimpleTcp.dll
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\bin\Debug\SimpleTcp.xml
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCPClient.Form1.resources
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCPClient.csproj.CopyComplete
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCP.pdb
+C:\Users\Sébastien\Desktop\Proj\TCP\TCP\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\bin\Debug\TCP.exe.config
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\bin\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\bin\Debug\TCP.pdb
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\bin\Debug\SimpleTcp.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\bin\Debug\SimpleTcp.xml
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\obj\Debug\TCPClient.Form1.resources
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\obj\Debug\TCPClient.csproj.CopyComplete
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\obj\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\Matieres iut\TCP\TCP\obj\Debug\TCP.pdb
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\bin\Debug\TCP.exe.config
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\bin\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\bin\Debug\TCP.pdb
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\bin\Debug\SimpleTcp.dll
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\bin\Debug\SimpleTcp.xml
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\obj\Debug\TCPClient.csprojAssemblyReference.cache
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\obj\Debug\TCPClient.Form1.resources
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\obj\Debug\TCPClient.csproj.GenerateResource.cache
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\obj\Debug\TCPClient.csproj.CopyComplete
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\obj\Debug\TCP.exe
+C:\Users\nathy\OneDrive\Documents\Matieres iut\PROJET ER4\TCP_client\TCP\obj\Debug\TCP.pdb
